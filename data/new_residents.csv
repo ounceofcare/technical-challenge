@@ -1,0 +1,32 @@
+name,email,phone,date_of_birth,community
+"  Marcus Washington  ",marcus.washington@email.com,503-555-0101,1985-03-15,Oakwood Apartments
+"Priya Patel",priya.patel@email.com,503-555-0102,1990-07-22,Riverside Commons
+"chen wei",chen.wei@email.com,503-555-0103,1978/11/03,Cedar Hill Village
+"ROBERTO GONZALEZ",roberto.gonzalez@email.com,,1982-01-30,Maple Grove Residences
+"Aisha Johnson",aisha.johnson@email.com,503-555-0105,03/25/1995,Oakwood Apts
+"Dmitri Volkov",dmitri.volkov@email.com,503-555-0106,1970-08-14,Riverside Commons
+"María Elena Rodríguez",maria.rodriguez2@email.com,503-555-0107,12/5/88,Cedar Hill Village
+"James O'Brien",james.obrien2@email.com,503-555-0108,1965-04-19,Maple Grove Residences
+"Fatima Al-Hassan",fatima.alhassan@email.com,,1993-09-01,Oakwood Apartments
+"Nguyễn Thị Mai",nguyen.mai@email.com,503-555-0110,1987-06-28,Riverside
+"Kim Soo-Jin",kim.soojin@email.com,503-555-0111,1991-02-14,Cedar Hill Village
+betty.rodriguez@email.com,"Betty Rodriguez",503-555-0112,1979-11-22,Oakwood Apartments
+"Tomás Hernández",tomas.hernandez@email.com,503-555-0113,1984-05-07,Maple Grove Residences
+"Rachel Green",rachel.green@email.com,503-555-0114,June 3 1992,Oakwood Apartments
+"André Dubois",andre.dubois@email.com,503-555-0115,1976-12-30,Riverside Commons
+"Olga Petrov",olga.petrov@email.com,(503) 555-0116,1988-08-17,Cedar Hill Village
+"Mohammed Ali",mohammed.ali@email.com,503-555-0117,,Maple Grove Residences
+"Yuki Tanaka",yuki.tanaka@email.com,503-555-0118,1994-01-25,Oakwood Apartments
+"Isabella Costa",isabella.costa@email.com,503-555-0119,1983-10-11,Riverside Commons
+"Kwame Asante",,503-555-0120,1975-07-04,Cedar Hill Village
+"Emily Young",emily.young@email.com,503-555-0121,1990-03-08,Maple Grove Residences
+"Patrick Murphy",patrick.murphy@email.com,503-555-0122,1968-09-15,Oakwood Apartments
+"Lena Müller",lena.mueller@email.com,503-555-0123,1992-04-20,Riverside Commons
+,complete.garbage,not-a-phone,not-a-date,not-a-community
+"Sofia Andersson",sofia.andersson@email.com,503-555-0125,1986-11-28,Cedar Hill
+"David Kim",david.kim2@email.com,503-555-0126,01/17/1979,Maple Grove Residences
+"Amara Diallo",amara.diallo@email.com,503-555-0127,1991-06-13,Oakwood Apartments
+"Hans Jørgensen",hans.jorgensen@email.com,503-555-0128,1974-02-09,Riverside Commons
+"Carla Ferreira",carla.ferreira@email.com,503-555-0129,1989-08-03,Cedar Hill Village
+this row is,completely,broken and,should be,skipped
+"Raj Kapoor",raj.kapoor@email.com,503-555-0131,1980-12-25,Maple Grove Residences
